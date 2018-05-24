@@ -11,8 +11,8 @@
 	<project path="vendor/nxp-nfc/opensource/frameworks" name="LineageOS/android_vendor_nxp-nfc_opensource_frameworks" revision="cm-14.1" />
 	<project path="vendor/nxp-nfc/opensource/libnfc-nci" name="LineageOS/android_vendor_nxp-nfc_opensource_libnfc-nci" revision="cm-14.1" />
 
-	<project path="device/samsung/j3xnlte" name="djeman/android_device_samsung_j3xnlte" revision="cm-14.1" />
-	<project path="kernel/samsung/j3xnlte" name="djeman/android_kernel_samsung_j3xnlte" revision="cm-14.1" />
-	<project path="vendor/samsung/common" name="djeman/android_vendor_samsung_common" revision="cm-14.1" />
-	<project path="vendor/sprd" name="djeman/android_vendor_sprd" revision="cm-14.1" />
+	<project path="device/samsung/j3xnlte" name="jim102929/android_device_samsung_j3xnlte" revision="cm-14.1" />
+	<project path="kernel/samsung/j3xnlte" name="jim102929/android_kernel_samsung_j3xnlte" revision="cm-14.1" />
+	<project path="vendor/samsung/common" name="jim102929/android_vendor_samsung_common" revision="cm-14.1" />
+	<project path="vendor/sprd" name="jim102929/android_vendor_sprd" revision="cm-14.1" />
 </manifest>
